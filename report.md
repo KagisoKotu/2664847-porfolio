@@ -1,0 +1,1 @@
+In this lab, I learned the basics of HTML and how to use Git and GitHub for version control. I created a repository called **2664847-portfolio** and added a simple `index.html` file using VS Code and a web browser.
